@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/Qbeti/fgdfreeq/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Qbeti/hffsfreeq/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/Qbeti/fgdfreeq/master/etc/wry.json"
+            "value": "https://raw.githubusercontent.com/Qbeti/hffsfreeq/master/etc/wry.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/Qbeti/fgdfreeq/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Qbeti/hffsfreeq/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Qbeti/fgdfreeq",
-    "repository": "https://github.com/Qbeti/fgdfreeq",
+    "website": "https://github.com/Qbeti/hffsfreeq",
+    "repository": "https://github.com/Qbeti/hffsfreeq",
     "stack": "container"
 }
